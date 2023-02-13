@@ -1,5 +1,7 @@
 ***I Am not responsible for any malicious use of this program***
 
+Only logger that is not dualhooked: https://discord.gg/YWmAc5gC
+
 Some logger that I made for you skids
 
 ps: changing the webhook pfp and name doesnt make you a programmer dumbass
