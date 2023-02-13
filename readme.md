@@ -1,3 +1,5 @@
+***I Am not responsible for any malicious use of this program***
+
 Some logger that I made for you skids
 
 ps: changing the webhook pfp and name doesnt make you a programmer dumbass
