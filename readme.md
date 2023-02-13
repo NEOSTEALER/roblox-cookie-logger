@@ -21,5 +21,7 @@ some code forked off of mani
 🟢Sends Account age to webhook
 🟢Steals passwords from ALL browsers
 🟣NOT DETECTED BY WINDOWS DEFENDER AND SOME OTHER ANTI VIRUSES
+
+
 **To Do**
 💎Add EXE version Builder
