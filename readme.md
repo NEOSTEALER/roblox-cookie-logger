@@ -6,7 +6,7 @@ Some logger that I made for you skids
 
 ps: changing the webhook pfp and name doesnt make you a programmer dumbass
 
-SETUP FOR SKIDS ASF: change the webhooks and run the file through py
+SETUP FOR SKIDS ASF: change the webhooks and run the file through py, Run pip install -r requirements.txt in cmd
 
 discord if you need help: 1☆jay..#2723
 
