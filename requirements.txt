@@ -6,3 +6,4 @@ py-cpuinfo
 robloxpy
 discordwebhook
 discord
+requests
